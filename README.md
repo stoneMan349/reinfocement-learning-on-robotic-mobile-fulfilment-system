@@ -1,5 +1,6 @@
 # reinforcement-learning-on-robotic-mobile-fulfilment-system
 A reinforcement learing environment for robotic mobile fulfilment system (RMFS)
+
 We provide a reinforcement learning environment for RMFS and provide an improved DQN algorithm to realize the control of AGV.
 
 1.Run the program by running the run.py
@@ -22,5 +23,7 @@ The first picture is the early stage of training, the AGV under the control of t
 After training for a period of time, the AGV was able to complete a small number of tasks, but the neural network still made a lot of wrong decisions.
 
 ![媒体3 (online-video-cutter com)_](https://user-images.githubusercontent.com/103321916/209794725-4c104570-f936-4b5e-8b7c-390c73f13e96.gif)
-![媒体4 (online-video-cutter com)_](https://user-images.githubusercontent.com/103321916/209794743-aaf628ff-16d6-4fb9-9fa7-328b4edda7cc.gif)
+After a period of training, AGV can complete a large number of tasks, but the neural network still occasionally makes wrong decisions.
 
+![媒体4 (online-video-cutter com)_](https://user-images.githubusercontent.com/103321916/209794743-aaf628ff-16d6-4fb9-9fa7-328b4edda7cc.gif)
+After the neural network is trained, it can control the AGV to complete all tasks.
