@@ -2,6 +2,7 @@
 A reinforcement learing environment for robotic mobile fulfilment system (RMFS)
 
 We provide a reinforcement learning environment for RMFS and provide an improved DQN algorithm to realize the control of AGV.
+For more information, you can search my paper: Astar guiding DQN algorithm for AGV pathfinding problem of robotic mobile fulfillment systems
 
 1.Run the program by running the run.py
 
